@@ -1,12 +1,7 @@
 # Smart-Health-Monitoring-System
 # Overview
 The Smart Healthcare Monitoring System is a real-time healthcare application that tracks patients' health data, such as heart rate, temperature, and other vital signs. The data is collected from IoT devices and displayed on a dashboard for doctors to monitor remotely. The system uses MQTT for communication and MongoDB for data storage.
-
-# Time Taken
-Development Time: 8 weeks
-Project Complexity
-Level: Advanced
-Technology Stack
+# Technology Stack
 Backend: Java, Spring Boot
 IoT Communication Protocol: MQTT
 Database: MongoDB
