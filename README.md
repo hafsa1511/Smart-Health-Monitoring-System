@@ -31,7 +31,11 @@ IoT Device SDKs: Connect with IoT device SDKs to collect data from wearable heal
 
 # Deployment
 Cloud Deployment: Deploy the system on a cloud platform (like AWS or Azure) for remote monitoring capabilities.
+
 Security Measures
+
 Data Encryption: All health data is encrypted during transmission to ensure privacy.
+
 Secure Authentication: Users and doctors are authenticated through secure login mechanisms.
+
 HIPAA Compliance: The system ensures compliance with healthcare standards, especially HIPAA, to protect patient privacy.
