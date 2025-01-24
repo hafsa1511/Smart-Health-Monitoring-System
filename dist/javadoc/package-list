@@ -1,0 +1,14 @@
+Business
+Business.Admin
+Business.DB4OUtil
+Business.Disease
+Business.Doctor
+Business.Enterprise
+Business.Network
+Business.Patient
+Business.Recode
+userinterface
+userinterface.DiseaseControlPanel
+userinterface.DoctorPanel
+userinterface.HospitalPanel
+userinterface.PatientPanel
